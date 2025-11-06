@@ -1,0 +1,24 @@
+body {
+
+      margin: 0px;
+      border: 0px;
+
+}
+#title {
+
+      color: rgb(255, 255, 255);
+      
+      text-align: center;
+      margin: 10px;
+      padding: 10px;
+
+
+}
+nav {
+
+      background-color: gray;
+      margin: 0px;
+      border: 0px;
+      padding: 10px;
+
+}
